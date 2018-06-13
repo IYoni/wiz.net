@@ -1,0 +1,8 @@
+G:\Flash\Facilities\Cnet\CNET V6 Configurator Yon Last - Copy\homiepure.wizard\obj\Debug\homiepure.wizard.Properties.Resources.resources
+G:\Flash\Facilities\Cnet\CNET V6 Configurator Yon Last - Copy\homiepure.wizard\obj\Debug\homiepure.wizard.csproj.GenerateResource.Cache
+G:\Flash\Facilities\Cnet\CNET V6 Configurator Yon Last - Copy\homiepure.wizard\bin\Debug\homiepure.wizard.exe.config
+G:\Flash\Facilities\Cnet\CNET V6 Configurator Yon Last - Copy\homiepure.wizard\bin\Debug\homiepure.wizard.exe
+G:\Flash\Facilities\Cnet\CNET V6 Configurator Yon Last - Copy\homiepure.wizard\bin\Debug\homiepure.wizard.pdb
+G:\Flash\Facilities\Cnet\CNET V6 Configurator Yon Last - Copy\homiepure.wizard\obj\Debug\homiepure.wizard.exe
+G:\Flash\Facilities\Cnet\CNET V6 Configurator Yon Last - Copy\homiepure.wizard\obj\Debug\homiepure.wizard.pdb
+G:\Flash\Facilities\Cnet\CNET V6 Configurator Yon Last - Copy\homiepure.wizard\obj\Debug\homiepure.wizard.csprojResolveAssemblyReference.cache
